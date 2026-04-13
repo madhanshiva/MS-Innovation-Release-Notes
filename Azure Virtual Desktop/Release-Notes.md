@@ -16,6 +16,44 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-04-10</summary>
+
+## Release Date : 2026-04-10
+
+### Summary of Changes
+
+The lab has been successfully tested, updated creenshots with latest ones, Improved overall lab quality by refining instructions, correcting task flows, removing unnecessary steps, and aligning configurations and commands with the latest platform changes.
+
+### Infrastructure Changes
+
+  N/A
+
+### Content Changes
+
+  - Refined instructions across labs to provide clearer, step-by-step guidance and removed unnecessary formatting (italic headings)
+  - Removed redundant “Help to secure” steps to simplify and streamline the lab experience.
+  - Modified Teams update command and added missing “Allow access” for camera and Microphone instructions in lab 10.
+  - All the URL links has been checked in the lab guide and added new links if old link is not found
+  - Overall refined instructions and fixed the rendering issues
+
+### Screenshot Updates
+
+- **Minor updates**: 
+
+    - **Updated UI Screenshots**: Updated screenshots with latest ones.
+
+### Testing Notes
+
+- **Testing Date**: 2026-04-10
+
+### Testing Scope 
+
+Conducted end-to-end testing, validated the lab guide steps, enhanced the labguide with new latest screenshots and added instructions for better clarity.
+
+---
+</details>
+
+<details>
   <summary>2025-11-25</summary>
 
 ## Release Date : 2025-11-25
