@@ -32,7 +32,7 @@ N/A
 
 ### Content Changes
 
-N/A
+- Exercise 1 - Task 1 - step 4: Updated the devcontainer.json configuration for Codespaces creation.
 
 ### Screenshot Updates
 
