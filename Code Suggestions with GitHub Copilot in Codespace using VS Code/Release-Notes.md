@@ -17,7 +17,49 @@ This repository contains detailed notes about the latest updates and modificatio
 
 # Release Notes
 <details>
-  <summary>2025-10-24</summary>
+  <summary>2026-04-14</summary>
+
+## Release Date: 2026-04-14
+
+### Summary of Changes
+
+Implemented clarity, structure, and usability improvements across the lab guide. Updates include refined GitHub sign-in and repository creation instructions, improved formatting and readability, restructuring of Task 3 for better learning flow, and addition of new screenshots to better guide users through the lab experience. 
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- **Task 1:**
+  - Clarified GitHub sign-in steps for better understanding.
+  - Updated repository creation instructions with an explicit note to select Owner as Enterprise
+- **Task 3:**
+  - Restructured Task 3 with simplified task heading and clearer flow
+  - Updated the devcontainer.json content to be used in the lab, as we were facing issues in accessing Codespace in VS Code. 
+  - Added task overview sections for each task and sub-tasks to improve context and guidance for learners 
+
+### Screenshot Updates
+
+- Revised the screenshots to align with the latest GitHub UI and content changes.
+- Screenshots updated are:
+  - Task 1: Step 3, Step 7, Step 14, Step 15, Step 24.
+  - Task 2: Step 5 (Newly added)
+  - Task 3: Step 3, Step 12 (Newly added) 
+      
+### Testing Notes
+
+- **Testing Date**: 2026-04-14
+
+### Testing Scope 
+
+Completed end-to-end testing of the lab after updates. Verified improved clarity of instructions, correctness of updated Task 3 flow, and accuracy of newly added screenshots. Confirmed overall lab flow are working as expected.
+
+---
+</details>
+
+<details>
+  <summary>2026-02-19</summary>
 
 ## Release Date: 2026-02-19
 
@@ -41,7 +83,7 @@ N/A
       
 ### Testing Notes
 
-- **Testing Date**: 2025-10-24
+- **Testing Date**: 2026-02-19
 
 ### Testing Scope 
 
