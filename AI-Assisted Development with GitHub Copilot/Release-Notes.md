@@ -30,9 +30,13 @@ Minor updates were implemented across the guide, including clearer and more accu
 N/A
  
 ### Content Changes
- 
-Updated the lab guide to ensure consistency in the UI experience and improve overall clarity.
- 
+
+* **Exercise 01 – Task 4 – Step 10:** Updated screenshot for the model selection UI.
+* **Exercise 01 – Task 4 – Step 10:** Updated screenshot for the “Add Context” option in VS Code.
+* **Exercise 04 – Task 4 – Step 1:** Updated the screenshot to include step annotations.
+* **Exercise 04 – Task 4 – Step 2:** Added a screenshot for the new “Generate agent instructions” option.
+* **Exercise 05 – Task 2 – Step 2:** Updated the screenshot to include step annotations.
+
 ### Screenshot Updates
  
 - **Minor updates**: A few screenshots were refreshed to reflect the latest UI changes. Corresponding instruction text was reviewed and adjusted to match the updated visuals, ensuring consistency between steps and images.
