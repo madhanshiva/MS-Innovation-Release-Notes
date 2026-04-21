@@ -16,6 +16,43 @@ For any further details or inquiries, feel free to reach out to the CloudLabs su
 # Release Notes
 
 <details>
+  <summary>2026-04-15</summary>
+
+## Release Date: 2026-04-15
+ 
+### Summary of Changes
+
+- Enhanced the content with updated screenshots reflecting the new Microsoft Foundry experience, along with refined instructions to improve overall clarity, usability, and understanding.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- **Minor updates**: 
+
+    - Updated instructions in Lab 1 Exercise 1 to align with the new Microsoft Foundry experience.
+
+### Screenshot Updates
+
+- **Minor updates**: 
+
+    - **Updated UI Screenshots**: Updated screenshots in Lab 1 Exercise 1 to align with the new Microsoft Foundry experience.
+      
+### Testing Notes
+
+- **Testing Date**: 2026-04-15
+
+### Testing Scope 
+
+- Completed comprehensive end-to-end testing, validating all steps for accuracy, functionality, and seamless workflow execution across the entire process.
+
+---
+</details>
+
+
+<details>
   <summary>2026-03-23</summary>
 
 ## Release Date: 2026-03-23
