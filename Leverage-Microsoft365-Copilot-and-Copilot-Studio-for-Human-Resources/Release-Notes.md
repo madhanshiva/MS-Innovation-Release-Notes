@@ -17,6 +17,38 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 In this section, we will track and list each change introduced in the latest release:
 
+<details>
+  <summary>2026-04-23</summary>
+
+## Release Date: 2026-04-23
+
+### Summary of Changes
+
+Updated the lab content to align with the latest Powerpoint UI changes for slides creation with Copilot prompt while improving the overall learner experience.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+N/A
+
+### Screenshot Updates
+
+- Updated screenshots to reflect the latest UI changes in Powerpoint for slides creation with Copilot prompt.
+
+
+### Testing Notes
+
+- **Testing Date**: 2026-04-23
+
+### Testing Scope 
+
+- End-to-end lab testing was completed successfully, and the lab guide was updated to enhance clarity and align with the latest UI changes powerpoint.
+
+---
+</details>
 
 <details>
   <summary>2026-04-02</summary>
