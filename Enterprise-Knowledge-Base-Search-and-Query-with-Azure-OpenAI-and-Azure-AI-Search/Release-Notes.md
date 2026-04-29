@@ -14,6 +14,49 @@ This Page contains detailed notes about the latest updates and modifications mad
 `For any further details or inquiries, feel free to reach out to the CloudLabs support team. Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
+<details>
+  <summary>2026-04-28</summary>
+
+## Release Date: 2026-04-28
+
+### Summary of Changes
+
+Updated the lab guide with formatting improvements, Azure portal UI updates, clearer instructions, and infrastructure template refinements. 
+
+### Infrastructure Changes
+
+- Updated the psscript to use the CloudLabs `Download` function command for file downloads.
+- Updated the deployment template in **Exercise 1 - Task 3**:
+  - Changed the model deployment to **gpt-4.1**
+  - Updated the deployment type to **Chat**
+  - Updated the **Document Intelligence** deployment value as the previous configuration was using the older endpoint format, which was causing authentication/connection failures.
+
+### Content Changes
+
+- Updated Task and Exercise heading sizes as per the quality checklist recommendations.
+- Removed MFA-related steps from the **Getting Started** page as they are no longer required.
+- **Exercise 1**:
+  - Added numbered subheadings for tasks (for example: Task 1.1, Task 1.2, etc.)
+  - Updated steps and notes for better clarity and understanding.
+- **Exercise 2**:
+  - Updated steps and notes for improved clarity and understanding.
+
+### Screenshot Updates
+
+- Updated Azure portal screenshots to reflect the latest minor UI changes.
+- Refreshed screenshots in **Exercise 1 and 2** to align with the updated Azure portal experience.
+
+### Testing Notes
+
+- **Testing Date**: 2026-04-28
+
+### Testing Scope 
+
+- Performed end-to-end lab validation and verified all exercises, deployments, and instructions successfully.
+
+---
+</details>
+
 
 <details>
   <summary>2025-10-27</summary>
