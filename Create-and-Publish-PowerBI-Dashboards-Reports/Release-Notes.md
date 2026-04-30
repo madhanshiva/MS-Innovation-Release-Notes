@@ -28,8 +28,7 @@ Minor updates were implemented across the guide in getting started page, includi
 
 ### Infrastructure Changes
 
-1. Have implemented the lab validations as part of the feedback from previous testing history.
-2. Tested the lab with dedicated subscription format instead of Dedicated tenant as part of the feedback from previous testing history.
+Have implemented the lab validations as part of the feedback from previous testing history.
 
 ### Content Changes
 
