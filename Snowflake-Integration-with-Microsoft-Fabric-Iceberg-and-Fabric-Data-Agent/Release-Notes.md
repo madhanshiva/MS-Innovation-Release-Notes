@@ -17,6 +17,43 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ## Release Notes
 <details>
+  <summary>2026-04-30</summary>
+
+## Release Date: 2026-04-30
+
+### Summary of Changes
+
+Enhanced lab content by updating UI screenshots to reflect the latest interface and improving step-by-step instructions for greater clarity. Standardized database names, corrected spelling errors, and fixed rendering issues. Added updated output screenshots to align with the latest results.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Improved and clarified instructions across Lab 1, Lab 2, Lab 3, Lab 4, and Lab 5 to enhance readability and ease of execution.
+- Updated content to align with the latest UI changes across the platform.
+- Updated database names and corrected spelling mistakes.
+  
+### Screenshot Updates
+
+Screenshots have been updated to reflect the latest UI and improve user understanding:
+- Updated screenshots in Lab 1 to reflect the changes made in the database names, and also added new output screenshots.
+- Updated screenshots to blurr out user IDs and other unique IDs.
+- In Lab 5, updated UI screenshots to reflect the latest changes. Also added new screenshot to reflect the latest output.
+  
+### Testing Notes
+
+- **Testing Date**: 2026-04-30
+
+### Testing Scope 
+
+Revalidated all labs through end-to-end testing to ensure updated instructions are accurate and the user experience is seamless. Verified Lakehouse data loading workflows, tested troubleshooting guidance, and confirmed the correctness of Snowflake-related tasks, including Cortex Agent functionality. Ensured all screenshots are aligned with the latest UI and documented steps.
+
+---
+</details>
+
+<details>
   <summary>2026-04-09</summary>
 
 ## Release Date: 2026-04-09
