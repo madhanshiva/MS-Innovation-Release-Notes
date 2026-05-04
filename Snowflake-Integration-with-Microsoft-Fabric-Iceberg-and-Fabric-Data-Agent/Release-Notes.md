@@ -31,10 +31,15 @@ N/A
 
 ### Content Changes
 
-- Improved and clarified instructions across Lab 1 (Fabric Portal), Lab 2 (Snowflake Portal), Lab 3 (Fabric Portal), Lab 4 (Fabric Portal), and Lab 5 (Snowflake Portal) to improve readability and ensure smoother execution.
-- Updated content to align with the latest UI changes across the platform.
-- Updated database names and corrected spelling mistakes.
-  
+- Improved and clarified instructions across various labs
+- Lab 1, Task 4, Step 5 (Fabric Portal) - Change in Database names, and also modified the output window.
+- Lab 2, Task 1, Step 5 and Step 6 (Snowflake Portal) - Blurred out unique IDs.
+- Lab 3, Task 1, Step 17, Task 2, Step 3, Task 4, and Step 13 (Fabric Portal) - Blurred out unique IDs.
+- Lab 4, Task 2, Step 2 (Fabric Portal) - Updated the UI screenshot.
+- Lab 5, Task 1, Step 1 (Snowflake Portal) - Updated spelling mistakes and updated screenshot.
+- Lab 5, Task 2, Step 11 (Snowflake Portal) - Updated screenshot as per the updated name.
+- Lab 5, Task 3, Step 12 (Snowflake Portal) - Added a output screenshot for better clarity.
+
 ### Screenshot Updates
 
 Screenshots have been updated to reflect the latest UI and improve user understanding:
